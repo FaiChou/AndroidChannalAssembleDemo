@@ -3,6 +3,6 @@
 ## Expose to React Native flavor name
 
 ```javascript
-console.log(AppInfo.flavor);
+console.log(AppInfo.flavorName);
 // huawei
 ```
